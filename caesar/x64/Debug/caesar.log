@@ -1,0 +1,4 @@
+﻿  caesar.cpp
+E:\repos\caesar\caesar\caesar.cpp(24,29): warning C4804: <: небезопасное использование типа "bool" в операции
+E:\repos\caesar\caesar\caesar.cpp(29,32): warning C4804: <: небезопасное использование типа "bool" в операции
+  caesar.vcxproj -> E:\repos\caesar\x64\Debug\caesar.exe
